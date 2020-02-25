@@ -1,0 +1,12 @@
+{
+  "name": "clase2",
+  "authors": [
+    "hclareth7 <hernando.ariza@ormuco.com>"
+  ],
+  "description": "lo que sea",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0"
+  }
+}
